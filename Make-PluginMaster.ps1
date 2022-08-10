@@ -145,10 +145,10 @@ Foreach-Object {
         }
         $content | add-member -Force -Name "LastUpdate" $updateDate -MemberType NoteProperty
 
-        $installLink = $dlTemplateInstall -f $internalName, "True"
+        $installLink = $dlTemplateInstall -f "plugins", $internalName
         $content | add-member -Force -Name "DownloadLinkInstall" $installLink -MemberType NoteProperty
         
-        $installLink = $dlTemplateInstall -f $internalName, "True"
+        $installLink = $dlTemplateInstall -f "plugins", $internalName
         $content | add-member -Force -Name "DownloadLinkTesting" $installLink -MemberType NoteProperty
     
         $updateLink = $dlTemplateUpdate -f "plugins", $internalName
