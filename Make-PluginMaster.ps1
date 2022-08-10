@@ -11,9 +11,6 @@ $pluginBlacklistUrl = "https://goatcorp.github.io/DalamudAssets/UIRes/bannedplug
 $wc = New-Object system.Net.WebClient
 $blackList = $wc.downloadString($pluginBlacklistUrl) | ConvertFrom-Json
 
-$dlTemplateInstall = "https://kamori.goats.dev/Plugin/Download/{0}?isUpdate=False&isTesting={1}&branch=api5"
-$dlTemplateUpdate = "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/api5/{0}/{1}/latest.zip"
-
 $apiLevel = 5
 
 $thisPath = Get-Location
@@ -93,10 +90,13 @@ Foreach-Object {
     }
     $content | add-member -Force -Name "LastUpdate" $updateDate -MemberType NoteProperty
 
-    $installLink = $dlTemplateInstall -f $internalName, "False"
+    $dlTemplateInstall = "https://raw.githubusercontent.com/PrivateChunghyang/DalamudPlugins/api6/{0}/{1}/latest.zip"
+    $dlTemplateUpdate = "https://raw.githubusercontent.com/PrivateChunghyang/DalamudPlugins/api6/{0}/{1}/latest.zip"
+
+    $installLink = $dlTemplateInstall -f "plugins", $internalName
     $content | add-member -Force -Name "DownloadLinkInstall" $installLink -MemberType NoteProperty
     
-    $installLink = $dlTemplateInstall -f $internalName, "True"
+    $installLink = $dlTemplateInstall -f "plugins", $internalName
     $content | add-member -Force -Name "DownloadLinkTesting" $installLink -MemberType NoteProperty
     
     $updateLink = $dlTemplateUpdate -f "plugins", $internalName
