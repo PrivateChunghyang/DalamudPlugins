@@ -11,6 +11,10 @@ $pluginBlacklistUrl = "https://goatcorp.github.io/DalamudAssets/UIRes/bannedplug
 $wc = New-Object system.Net.WebClient
 $blackList = $wc.downloadString($pluginBlacklistUrl) | ConvertFrom-Json
 
+$dlTemplateInstall = "https://raw.githubusercontent.com/PrivateChunghyang/DalamudPlugins/api6/{0}/{1}/latest.zip"
+$dlTemplateUpdate = "https://raw.githubusercontent.com/PrivateChunghyang/DalamudPlugins/api6/{0}/{1}/latest.zip"
+
+
 $apiLevel = 5
 
 $thisPath = Get-Location
@@ -89,9 +93,6 @@ Foreach-Object {
         $updateDate = 0;
     }
     $content | add-member -Force -Name "LastUpdate" $updateDate -MemberType NoteProperty
-
-    $dlTemplateInstall = "https://raw.githubusercontent.com/PrivateChunghyang/DalamudPlugins/api6/{0}/{1}/latest.zip"
-    $dlTemplateUpdate = "https://raw.githubusercontent.com/PrivateChunghyang/DalamudPlugins/api6/{0}/{1}/latest.zip"
 
     $installLink = $dlTemplateInstall -f "plugins", $internalName
     $content | add-member -Force -Name "DownloadLinkInstall" $installLink -MemberType NoteProperty
