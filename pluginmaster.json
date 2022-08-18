@@ -58,6 +58,29 @@
         "DownloadLinkUpdate":  "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api6/plugins/AccurateCountDown/latest.zip"
     },
     {
+        "InternalName": "HeelsPlugin",
+        "AssemblyVersion": "1.1.6",
+        "RepoUrl": "https://github.com/LeonBlade/HeelsPlugin",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 5,
+        "LoadPriority": 0,
+        "ImageUrls": null,
+        "IconUrl": "https://github.com/LeonBlade/HeelsPlugin/raw/main/icon.png",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 1,
+        "CategoryTags": [
+            "heels",
+            "high heels",
+            "height",
+            "offset",
+            "leonblade"
+        ],
+        "DownloadLinkInstall": "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api6/plugins/HeelsPlugin/latest.zip",
+        "DownloadLinkTesting": "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api6/plugins/HeelsPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api6/plugins/HeelsPlugin/latest.zip"
+    },
+    {
         "Author":  "Caraxi",
         "Name":  "Adventurer in Need",
         "InternalName":  "AdventurerInNeed",
