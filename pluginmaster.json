@@ -3642,7 +3642,7 @@
         "DownloadLinkInstall": "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api6/plugins/HeelsPlugin/latest.zip",
         "DownloadLinkTesting": "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api6/plugins/HeelsPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api6/plugins/HeelsPlugin/latest.zip"
-    }
+    },
     {
         "Author": "LeonBlade",
         "Name": "Burning Down the House",
@@ -3669,5 +3669,5 @@
         "DownloadLinkInstall": "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api6/plugins/BDTHPlugin/latest.zip",
         "DownloadLinkTesting": "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api6/plugins/BDTHPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api6/plugins/BDTHPlugin/latest.zip"
-  },
+    }
 ]
