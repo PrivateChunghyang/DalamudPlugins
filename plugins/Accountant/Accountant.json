@@ -1,8 +1,8 @@
 {
   "Author": "Ottermandias",
   "Name": "Accountant",
-  "Punchline": "Character task timers.",
-  "Description": "Keep track of retainer, airship, submersible, aetherial wheel and crop timers as well as several miscallaneous tasks of multiple characters.",
+  "Punchline": "숙제 타이머",
+  "Description": "집사, 비공정, 잠수정등의 남은 시간 및 확인여부를 체크해줍니다. (한국서버 X)",
   "Tags": [ "Airship", "Gardening", "Crops", "Retainer", "Multiple Characters", "Account", "Timer", "Submarine", "Submersible", "Tasks", "Cactpot" ],
   "InternalName": "Accountant",
   "AssemblyVersion": "1.2.3.0",
