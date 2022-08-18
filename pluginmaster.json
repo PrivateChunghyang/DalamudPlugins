@@ -70,12 +70,12 @@
         "IsTestingExclusive": "False",
         "DownloadCount": 1,
         "CategoryTags": [
-            "heels",
-            "high heels",
-            "height",
-            "offset",
-            "leonblade"
-        ],
+                             "heels",
+                             "high heels",
+                             "height",
+                             "offset",
+                             "leonblade"
+                        ],
         "DownloadLinkInstall": "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api6/plugins/HeelsPlugin/latest.zip",
         "DownloadLinkTesting": "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api6/plugins/HeelsPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api6/plugins/HeelsPlugin/latest.zip"
