@@ -3,7 +3,7 @@
   "Name": "DelvUI",
   "InternalName": "DelvUI",
   "AssemblyVersion": "1.0.1.1",
-  "Description": "DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW",
+  "Description": "완전히 커스터마이징이 가능한 UI플러그인. 당신만의 HUD를 만들어보세요. (한국어 폰트 직접 넣어야함)",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/delvui/delvui",
   "Tags": [
@@ -11,5 +11,5 @@
   ],
   "DalamudApiLevel": 5,
   "LoadPriority": 0,
-  "Punchline": "A modern HUD replacement built for customization."
+  "Punchline": "당신만을 위한 HUD"
 }

@@ -3,7 +3,7 @@
   "Name": "Discord Chat Bridge",
   "InternalName": "Dalamud.DiscordBridge",
   "AssemblyVersion": "1.2.2.1",
-  "Description": "This plugin allows you to receive your chat messages via Discord.",
+  "Description": "자신이 채팅으로 수신하는 모든 메세지를 나의 디스코드 채널에 기록하세요.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/reiichi001/Dalamud.DiscordBridge",
   "Tags": [
@@ -12,6 +12,6 @@
   ],
   "DalamudApiLevel": 5,
   "LoadPriority": 0,
-  "Punchline": "Receive your chat messages via Discord.",
+  "Punchline": "수신하는 메세지를 디스코드에 표시",
   "Changelog": "Switched from XIVAPI search to NetStone. Also fixed a code typo that caused it to always fail."
 }

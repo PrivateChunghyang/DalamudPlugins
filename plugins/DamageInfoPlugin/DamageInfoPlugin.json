@@ -3,10 +3,10 @@
   "Name": "Damage Info",
   "InternalName": "DamageInfoPlugin",
   "AssemblyVersion": "2.0.1.1",
-  "Description": "Configurable options for in-game fly text color based on damage type, with additional settings for damage source and fly text decluttering options.",
+  "Description": "데미지 정보를 마법,물리,암흑 으로 구분해서 확인하세요.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/lmcintyre/DamageInfoPlugin",
   "DalamudApiLevel": 5,
   "LoadPriority": 0,
-  "Punchline": "Modifies in-game fly-text for more (or less) damage information."
+  "Punchline": "플라잉텍스트에 데미지의 유형을 표시"
 }

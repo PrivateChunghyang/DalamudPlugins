@@ -1,9 +1,9 @@
 {
 	"Author": "Haplo064",
 	"Name": "Pixel Perfect",
-	"Punchline": "Reveals your hitbox, and an optional ring.",
+	"Punchline": "히트박스 표시",
 	"InternalName": "PixelPerfect",
-	"Description": "Showing exactly where to stand since 2020.",
+	"Description": "당신의 캐릭터의 히트박스를 표시해보세요.",
 	"Tags": ["Hitbox", "Overlay", "Indicator"],
 	"RepoUrl": "https://github.com/Haplo064/PixelPerfect",
 	"AssemblyVersion": "1.4.0.2",

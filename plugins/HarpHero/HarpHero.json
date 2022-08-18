@@ -3,7 +3,7 @@
   "Name": "Harp Hero",
   "InternalName": "HarpHero",
   "AssemblyVersion": "1.1.3.0",
-  "Description": "Assist mode for bards who want to play music but don't know how to.\n- does NOT play anything automatically\n- needs MIDI files to work\n- adapts MIDI tracks to fit in game limitations for you\n- you will be scored :O",
+  "Description": "리듬게임처럼 midi 파일 연주를 연습해보세요.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/MgAl2O4/HarpHeroDalamud",
   "Tags": [
@@ -20,5 +20,5 @@
     "https://raw.githubusercontent.com/MgAl2O4/HarpHeroDalamud/main/assets/image2.png"
   ],
   "IconUrl": "https://raw.githubusercontent.com/MgAl2O4/HarpHeroDalamud/main/assets/icon.png",
-  "Punchline": "Bard performance assistant"
+  "Punchline": "연주 도우미"
 }

@@ -3,7 +3,7 @@
   "Name": "DeepDungeonDex",
   "InternalName": "DeepDungeonDex",
   "AssemblyVersion": "1.2.0.0",
-  "Description": "A live bestiary for Deep Dungeon. Shows target mob aggro type, a subjective threat level, status vulnerabilities, and a general overview of notable mechanics. Threat level is meant to be taken with a grain of salt, is aimed towards solo players, and assumes a general familiarity with deep dungeon mechanics and the class being played. Information is accurate to the best of my knowledge based on crowdsourced information, but I could use your help! Please open an issue on the GitHub if you'd like to correct inaccurate or untested data.",
+  "Description": "딥던전에 출몰하는 모든 몬스터의 정보를 실시간으로 파악하세요. 기절면역여부, 어그로타입 등등",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Strati/DeepDungeonDex",
   "Tags": [
@@ -13,5 +13,5 @@
   ],
   "DalamudApiLevel": 5,
   "LoadPriority": 0,
-  "Punchline": "Live monster data for Deep Dungeons."
+  "Punchline": "딥던전의 몬스터의 모든 정보"
 }

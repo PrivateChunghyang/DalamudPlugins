@@ -3,10 +3,10 @@
   "Name": "Peeping Tom",
   "InternalName": "PeepingTom",
   "AssemblyVersion": "1.7.8",
-  "Description": "Shows who is currently or was previously targeting you.",
+  "Description": "발 밑의 점을 통해 누군가가 당신을 쳐다보고 있는지 파악하세요.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://sr.ht/~jkcclemens/PeepingTom",
   "DalamudApiLevel": 5,
   "LoadPriority": 0,
-  "Punchline": "Shows who is currently or was previously targeting you."
+  "Punchline": "누군가가 당신을 보고있다."
 }
