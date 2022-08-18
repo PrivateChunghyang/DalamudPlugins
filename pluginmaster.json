@@ -3617,5 +3617,30 @@
         "DownloadLinkInstall":  "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api6/plugins/ZodiacBuddy/latest.zip",
         "DownloadLinkTesting":  "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api6/plugins/ZodiacBuddy/latest.zip",
         "DownloadLinkUpdate":  "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api6/plugins/XIVLogger/latest.zip"
-    }
+    },
+      {
+    "Author": "LeonBlade",
+    "Name": "Heels Plugin",
+    "Description": "Offsets your character off the ground for when wearing heels.",
+    "InternalName": "HeelsPlugin",
+    "AssemblyVersion": "1.1.6",
+    "RepoUrl": "https://github.com/LeonBlade/HeelsPlugin",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "heels",
+      "high heels",
+      "height",
+      "offset",
+      "leonblade"
+    ],
+    "DalamudApiLevel": 5,
+    "IconUrl": "https://github.com/LeonBlade/HeelsPlugin/raw/main/icon.png",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1650082610,
+    "DownloadCount": 9866,
+    "DownloadLinkInstall": "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api6/plugins/HeelsPlugin/latest.zip",
+    "DownloadLinkTesting": "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api6/plugins/HeelsPlugin/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api6/plugins/HeelsPlugin/latest.zip"
+  }
 ]
