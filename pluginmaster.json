@@ -3642,32 +3642,5 @@
         "DownloadLinkInstall": "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api6/plugins/HeelsPlugin/latest.zip",
         "DownloadLinkTesting": "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api6/plugins/HeelsPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api6/plugins/HeelsPlugin/latest.zip"
-    },
-    {
-        "Author": "LeonBlade",
-        "Name": "Burning Down the House",
-        "Description": "Move around housing items with coordinates and allows you to place anywhere.",
-        "InternalName": "BDTHPlugin",
-        "AssemblyVersion": "1.4.1",
-        "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
-        "ApplicableVersion": "any",
-        "Tags": [
-                     "bdth",
-                     "housing",
-                     "float",
-                     "place",
-                     "glitch",
-                     "furnishing",
-                     "LeonBlade"
-                         ],
-        "DalamudApiLevel": 5,
-        "IconUrl": "https://github.com/LeonBlade/BDTHPlugin/raw/main/icon.png",
-        "IsHide": "False",
-        "IsTestingExclusive": "False",
-        "LastUpdated": 1660358419,
-        "DownloadCount": 11268,
-        "DownloadLinkInstall": "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api6/plugins/BDTHPlugin/latest.zip",
-        "DownloadLinkTesting": "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api6/plugins/BDTHPlugin/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api6/plugins/BDTHPlugin/latest.zip"
     }
 ]
