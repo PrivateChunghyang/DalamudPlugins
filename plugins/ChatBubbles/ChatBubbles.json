@@ -3,7 +3,7 @@
     "Name": "Chat Bubbles",
 	"Punchline": "Enables in-game chat bubbles.",
     "InternalName": "ChatBubbles",
-    "Description": "Using native chat bubble display, see who is talking about what in a more natural fashion.",
+    "Description": "파판UI에 맞춰 이제 유저들에게도 말풍선을 띄웁니다.",
     "Tags": [ "UI", "Roleplay", "RP", "Bubbles", "Chat"],
 	"RepoUrl": "https://github.com/Haplo064/ChatBubbles",
     "AssemblyVersion": "1.3.2.2",
