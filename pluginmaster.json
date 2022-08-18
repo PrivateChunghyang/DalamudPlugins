@@ -58,7 +58,10 @@
         "DownloadLinkUpdate":  "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api6/plugins/AccurateCountDown/latest.zip"
     },
     {
+        "Author":  "LeonBlade",
+        "Name": "HeelsPlugin",
         "InternalName": "HeelsPlugin",
+        "Description": "테스트",
         "AssemblyVersion": "1.1.6",
         "RepoUrl": "https://github.com/LeonBlade/HeelsPlugin",
         "ApplicableVersion": "any",
