@@ -1,0 +1,16 @@
+{
+  "Author": "Liza Carvelli",
+  "Name": "Slice is Right",
+  "InternalName": "SliceIsRight",
+  "AssemblyVersion": "3.0",
+  "Description": "Shows where Bamboo falls.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/carvelli/Slice-Is-Right",
+  "Tags": [
+    "gold saucer",
+    "yojimbo"
+  ],
+  "DalamudApiLevel": 5,
+  "LoadPriority": 0,
+  "Punchline": "Shows where Bamboo falls."
+}
