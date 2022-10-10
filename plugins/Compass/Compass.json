@@ -2,12 +2,12 @@
   "Author": "Chivalrik",
   "Name": "Compass",
   "InternalName": "Compass",
-  "AssemblyVersion": "1.16.1",
-  "Description": "당신의 모험을 위해서 감각적인 나침반을 추가해보세요!",
+  "AssemblyVersion": "1.25.0",
+  "Description": "Check-out the repository for steps on how to report missing/wrong filter\nand hiding options. Have a look at the FAQ tab in the config window\nafter install for common caveats.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/fitzchivalrik/compass",
-  "DalamudApiLevel": 5,
+  "DalamudApiLevel": 6,
   "LoadPriority": 0,
-  "Punchline": "당신의 모험을 위한 나침반 추가",
-  "Changelog": "- Add 'Crafting (Synthesis)' window to hiding options\n- Add option to not prio MouseOver targets for target distance"
+  "Punchline": "Monodimensional compass for your adventures.",
+  "Changelog": "- feat: Ability to disable Cardinals\n- feat: Add intercardinals\n- feat: Add own FC filter\n- feat: Enable negative X position values\n- feat: ALL circles filter (FATEs & Quests)\n- fix: Update to new Clientstructs\n- chore: Behind-the-scenes refactoring"
 }

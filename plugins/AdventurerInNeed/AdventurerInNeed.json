@@ -2,11 +2,11 @@
   "Author": "Caraxi",
   "Name": "Adventurer in Need",
   "InternalName": "AdventurerInNeed",
-  "AssemblyVersion": "1.2.0.1",
-  "Description": "지정한 임무에 지정한 역할군이 부족역할일 때, 알림을 울립니다. /pbonus 로 설정창을 여세요.",
+  "AssemblyVersion": "1.2.0.2",
+  "Description": "Recieve a notification when a duty roulette is in need of a role. /pbonus to setup",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Caraxi/AdventurerInNeed",
-  "DalamudApiLevel": 5,
+  "DalamudApiLevel": 6,
   "LoadPriority": 0,
-  "Punchline": "지정한 직업이 부족역할군일 때, 알림을 울립니다."
+  "Punchline": "Recieve a notification when a duty roulette is in need of a role."
 }
