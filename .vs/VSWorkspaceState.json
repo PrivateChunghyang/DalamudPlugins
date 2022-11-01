@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\plugins"
   ],
-  "SelectedNode": "\\C:\\Users\\sujin\\Source\\Repos\\DalamudPlugins",
+  "SelectedNode": "\\plugins\\ActionEffectRange",
   "PreviewInSolutionExplorer": false
 }
