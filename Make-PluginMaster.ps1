@@ -14,7 +14,7 @@ $blackList = $wc.downloadString($pluginBlacklistUrl) | ConvertFrom-Json
 $dlTemplateInstall = "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api7/{0}/{1}/latest.zip"
 $dlTemplateUpdate = "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api7/{0}/{1}/latest.zip"
 
-$apiLevel = 6
+$apiLevel = 7
 
 $thisPath = Get-Location
 
