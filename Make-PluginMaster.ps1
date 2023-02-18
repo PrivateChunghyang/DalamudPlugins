@@ -11,8 +11,8 @@ $pluginBlacklistUrl = ""
 $wc = New-Object system.Net.WebClient
 $blackList = $wc.downloadString($pluginBlacklistUrl) | ConvertFrom-Json
 
-$dlTemplateInstall = "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api6/{0}/{1}/latest.zip"
-$dlTemplateUpdate = "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api6/{0}/{1}/latest.zip"
+$dlTemplateInstall = "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api7/{0}/{1}/latest.zip"
+$dlTemplateUpdate = "https://github.com/PrivateChunghyang/DalamudPlugins/raw/api7/{0}/{1}/latest.zip"
 
 $apiLevel = 6
 
